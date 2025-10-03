@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<thesaurus xmlns:dc="http://purl.org/dc/terms/" xmlns="http://rs.gbif.org/thesaurus/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type" dc:title="Local Context Notice Type Vocabulary" dc:issued="2025-09-22" xsi:schemaLocation="http://rs.gbif.org/thesaurus/ http://rs.gbif.org/schema/thesaurus.xsd" dc:description="Draft IPT vocabulary of Local Context Notices with preference to values used by the API.">
+	<concept dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type/traditional_knowledge" dc:identifier="attribution">
+		<preferred>
+			<term dc:title="provenance" xml:lang="en"/>
+		</preferred>
+		<alternative>
+			<term dc:title="BC Provenance" xml:lang="en"/>
+			<term dc:title="BC P" xml:lang="en"/>
+		</alternative>
+	</concept>
+	<concept dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type/commercialization" dc:identifier="commercialization">
+		<preferred>
+			<term dc:title="commercialization"/>
+		</preferred>
+		<alternative>
+			<term dc:title="BC Open to Commercialization" xml:lang="en-us"/>
+			<term dc:title="BC Open to Commercialisation" xml:lang="en-uk"/>
+			<term dc:title="BC OC" xml:lang="en"/>
+		</alternative>
+	</concept>
+	<concept dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type/non_commercial" dc:identifier="non_commercial">
+		<preferred>
+			<term dc:title="non_commercial"/>
+		</preferred>
+		<alternative>
+			<term dc:title="BC Non-Commercial" xml:lang="en-us"/>
+			<term dc:title="BC NC" xml:lang="en"/>
+		</alternative>
+	</concept>
+	<concept dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type/collaboration" dc:identifier="collaboration">
+		<preferred>
+			<term dc:title="collaboration"/>
+		</preferred>
+		<alternative>
+			<term dc:title="BC Open to Collaboration" xml:lang="en"/>
+			<term dc:title="BC CB" xml:lang="en"/>
+		</alternative>
+	</concept>
+	<concept dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type/consent_verified" dc:identifier="consent_verified">
+		<preferred>
+			<term dc:title="consent_verified"/>
+		</preferred>
+		<alternative>
+			<term dc:title="BC Consent Verified" xml:lang="en"/>
+			<term dc:title="BC CV" xml:lang="en"/>
+		</alternative>
+	</concept>
+	<concept dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type/consent_non_verified" dc:identifier="consent_non_verified">
+		<preferred>
+			<term dc:title="consent_non_verified"/>
+		</preferred>
+		<alternative>
+			<term dc:title="BC Consent Non-Verified" xml:lang="en"/>
+			<term dc:title="BC CNV" xml:lang="en"/>
+		</alternative>
+	</concept>
+	<concept dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type/multiple_community" dc:identifier="multiple_community">
+		<preferred>
+			<term dc:title="multiple_community"/>
+		</preferred>
+		<alternative>
+			<term dc:title="BC Multiple Communities" xml:lang="en"/>
+			<term dc:title="BC MC" xml:lang="en"/>
+		</alternative>
+	</concept>
+	<concept dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type/research" dc:identifier="research">
+		<preferred>
+			<term dc:title="research"/>
+		</preferred>
+		<alternative>
+			<term dc:title="BC Research Use" xml:lang="en"/>
+			<term dc:title="BC R" xml:lang="en"/>
+		</alternative>
+	</concept>
+	<concept dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type/clan" dc:identifier="clan">
+		<preferred>
+			<term dc:title="clan"/>
+		</preferred>
+		<alternative>
+			<term dc:title="BC Clan" xml:lang="en"/>
+			<term dc:title="BC CL" xml:lang="en"/>
+		</alternative>
+	</concept>
+	<concept dc:URI="http://localcontext.org/api/vocabulary/BC_Label_Type/outreach" dc:identifier="outreach">
+		<preferred>
+			<term dc:title="outreach"/>
+		</preferred>
+		<alternative>
+			<term dc:title="BC Outreach" xml:lang="en"/>
+			<term dc:title="BC O" xml:lang="en"/>
+		</alternative>
+	</concept>
+</thesaurus>

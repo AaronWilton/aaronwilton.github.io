@@ -2,12 +2,12 @@
 layout: page
 title: Examples
 ---
-This page demonstrates the different approaches on the structure and degree of completeness of Local Contexts data that is included in the resource.
+This page examples of different approaches that have been explored to include Local Contexts data in a Darwin Core resource.
 
-Whilst these structures are for demonstration purposes, the actual data is real.  All of the specimens at the biological collections at Manaaki Whenua have Local Context Labels and/or Notices.
+Whilst these structures are for demonstration purposes, most of the data are "real".  All of the specimens at the biological collections at Manaaki Whenua are associated with Local Contexts Labels and/or Notices.
 
 ## Dynamic Properties
-As a temporary measure for the Pilot, GBIFs will use the Darwin Core term dynamicProperties to provide a link to the Local Context Project page.
+As a temporary measure for the Pilot, GBIFs will use the Darwin Core term dynamicProperties to provide a link to the Local Contexts Project page.
 
 
 {
