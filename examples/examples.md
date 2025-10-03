@@ -191,7 +191,7 @@ In this example, the Local Contexts Project ID is treated as the primary/parent 
 ## Local Context IPT extension
 This illustrates one way the provision of Local context information could be included in a resource using as a more structured IPT extension that is specific for the Local Contexts information.  The data in the table below includes that provided above
 
-See [terms](Terms) for definitions of the fields used in the table.
+See [terms](../Terms) for definitions of the fields used in the table.
 
 
 <table>
