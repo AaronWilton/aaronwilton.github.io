@@ -3,15 +3,15 @@ layout: page
 title: Terms
 ---
 
-The following is **draft** list of terms that explore the potential structure for include Local Context Project, Label and Notice information in a resource to be published via IPT to GBIF. 
+The following is **temporary** list of terms that help explore the potential structure to include Local Context Project, Label and Notice information in a resource to be published via IPT to GBIF. 
 
-**Note**:  this extension and the included terms - and all of the properties of the terms - are for demonstration purposes.  This extension may be removed or updated without notice.  It must not be considered a stable or endorsed vocabulary or extension for IPT.
+**Note**:  this extension and the terms - and all of the properties of the terms - are for demonstration purposes.  These may be removed or updated without notice.  They must not be considered a stable or endorsed vocabulary or extension for IPT.
 
-The terms are group into
+The terms are group into:
 - Record - terms relating to record that connects the occurrence or sampling event to Local Contexts information.
-- Project - terms providing a limited set of details about a Local Context project.
-- Links - terms that provide links to related resources
-- Labels and Notices - a limited set of fields that summarise the Labels and Notices that accompany the
+- Project - a limited set of terms providing details about a Local Context project.
+- Links - terms that provide links to related resources.
+- Labels and Notices - a limited set of fields that summarise the Labels and Notices that apply to the occurrence record.
 	
 An extended variant, like the one available for Measurements and Facts, could be created to allow linkage of Labels and Notices to occurrences for Sampling Event Core resources.  If required, an extended variant for use with sampling event core would include an OccurrenceID field to enable linking a record in this extension to the Occurrence records. 
 
