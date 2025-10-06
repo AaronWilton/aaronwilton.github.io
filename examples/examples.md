@@ -11,7 +11,7 @@ As a temporary measure for the Pilot, GBIFs will use the Darwin Core term dynami
 
 
 {
-"local_contexts_project_id": "https://localcontextshub.org/projects/e4ea7d90-2fb3-409f-a454-ea8075d71062/"
+[{"local_contexts_project_id":"26625172-5C0F-49E8-9B68-E258428FBA83"}]
 }
 
 ## Measurement or Fact
