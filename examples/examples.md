@@ -2,17 +2,20 @@
 layout: page
 title: Examples
 ---
-This page examples of different approaches that have been explored to include Local Contexts data in a Darwin Core resource.
+This page provides examples of different approaches that have been explored to include Local Contexts data in a Darwin Core resource.
 
 Whilst these structures are for demonstration purposes, most of the data are "real".  All of the specimens at the biological collections at Manaaki Whenua are associated with Local Contexts Labels and/or Notices.
 
 ## Dynamic Properties
 As a temporary measure for the Pilot, GBIFs will use the Darwin Core term dynamicProperties to provide a link to the Local Contexts Project page.
 
+### Example 1 - CHR 698548
 
-{
-[{"local_contexts_project_id":"26625172-5C0F-49E8-9B68-E258428FBA83"}]
-}
+[{"local_contexts_project_id":"00c8a26c-a4e3-4397-aa8c-7927e6ab732b"}]
+
+
+### Example 2 - CHR 130616
+[{"local_contexts_project_id":"e4ea7d90-2fb3-409f-a454-ea8075d71062"},{"local_contexts_project_id":"00c8a26c-a4e3-4397-aa8c-7927e6ab732b"}]
 
 ## Measurement or Fact
 The Measurement or Fact extension could be used to include Local Contexts information in a resource.  
