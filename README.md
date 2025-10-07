@@ -1,1 +1,1 @@
-# Demonstration - Inlcuding Local Contexts information in a Darwrin Core Archive
+# Demonstration - Including Local Contexts information in a Darwin Core Archive
