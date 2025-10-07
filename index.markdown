@@ -4,14 +4,6 @@
 
 layout: home
 ---
-This IPT extension demonstrates how Local Context Projects, Labels and Notices could potentially be included in a structured way within resources being published to the GBIF network. If endorsed, this may provide an interim or specific solution for the provision of Local Contexts information with occurrences.
-
-For information on Local Contexts and the tools they provide please visit their site at [https://localcontexts.org/](https://localcontexts.org/).
-
-This work is a contribution to the GBIF pilot aiming to integrate Local Contexts Notices and Labels within GBIF publishing frameworks. For details about the pilot see [https://techdocs.gbif.org/en/data-publishing/local-contexts-pilot](https://techdocs.gbif.org/en/data-publishing/local-contexts-pilot)
-
-**Note**:  this extension and the included terms - and all of the properties of the terms - are for demonstration purposes.  This extension may be removed or updated without notice.  It **must not** be considered a stable or endorsed vocabulary or extension for IPT.
-
-
-- [Terms](terms/)
-- [Examples](examples/examples)
+The IPT Demonstration for including Local Contexts information has been moved to 
+https://github.com/AaronWilton/Demonstration-IPT-Extension-For-LocalContexts
+Pages: [https://aaronwilton.github.io/Demonstration-IPT-Extension-For-LocalContexts/](https://aaronwilton.github.io/Demonstration-IPT-Extension-For-LocalContexts/)
